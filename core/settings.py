@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-7l@db8#0og!((kn1$mk6_@(=$-w%x7_ftryf$5vte*!qa$9dod
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['chatbot-001.herokuapp.com','127.0.0.1:8000']
 
 
 # Application definition
